@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Javokhir Mirmakhmudov</h1>
-<h3 align="center">My place of study is [Astrum IT Academy](https://astrum.uz)</h3>
+<h3 align="center">My place of study is <a href="https://astrum.uz" target="_blank">Astrum IT Academy</a></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mirmakhmudoff&label=Profile%20views&color=0e75b6&style=flat" alt="mirmakhmudoff" />
