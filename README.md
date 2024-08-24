@@ -31,17 +31,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/m1rmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="mirmakhmudoff" height="30" width="40" /></a>
-<a href="https://www.instagram.com/m1rmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="mirmakhmudoff" height="30" width="40" /></a>
-<a href="https://youtube.com/@mirmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="mirmakhmudoff" height="30" width="40" /></a>
-<a href="https://tiktok.com/@m1rmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/tiktok.png" alt="mirmakhmudoff" height="30" width="40" /></a>
+<a href="https://t.me/m1rmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="mirmakhmudoff" height="40" width="40" /></a>
+<a href="https://instagram.com/m1rmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="mirmakhmudoff" height="40" width="40" /></a>
+<a href="https://youtube.com/@mirmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="mirmakhmudoff" height="40" width="40" /></a>
+<a href="https://tiktok.com/@m1rmakhmudoff" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/tiktok.png" alt="mirmakhmudoff" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
@@ -58,12 +58,4 @@
   <img src="https://img.icons8.com/clouds/100/000000/code.png" alt="Coding Icon" />
   <img src="https://img.icons8.com/clouds/100/000000/api.png" alt="API Icon" />
   <img src="https://img.icons8.com/clouds/100/000000/database.png" alt="Database Icon" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/mirmakhmudoff/mirmakhmudoff/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3og0IMJcSI8p6hYQXS/giphy.gif" alt="Thank You" />
 </p>
